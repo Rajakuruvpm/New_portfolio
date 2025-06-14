@@ -34,7 +34,7 @@ const projects = [
     name: "Shopping Cart",
     technologies: "reactjs, html, css,bootstrap",
     image: cart,
-    github: "https://sshoppingcart.netlify.app/",
+    github: "https://github.com/Rajakuruvpm/ShoppingCart",
    
   },
 ];
