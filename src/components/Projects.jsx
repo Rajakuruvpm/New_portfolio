@@ -5,7 +5,8 @@ import "aos/dist/aos.css";
 import employeeMSImage from "../assets/bus.png";
 import bookMSImage from "../assets/hero.png";
 import puzzleImage from "../assets/puzzle.png";
-import cart from "../assets/cart.jpg";;
+import cart from "../assets/cart.jpg";
+import course from "../assets/course.jpeg";
 
 const projects = [
   {
@@ -41,7 +42,7 @@ const projects = [
     id: 5,
     name: "Course Registration system",
     technologies: "reactjs, springboot, mysql",
-    image: cart,
+    image: course,
     github: "https://github.com/Rajakuruvpm/Course_Registration_project",
    
   },
