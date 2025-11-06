@@ -37,6 +37,14 @@ const projects = [
     github: "https://github.com/Rajakuruvpm/ShoppingCart",
    
   },
+   {
+    id: 5,
+    name: "Course Registration system",
+    technologies: "reactjs, springboot, mysql",
+    image: cart,
+    github: "https://github.com/Rajakuruvpm/Course_Registration_project",
+   
+  },
 ];
 
 const Projects = () => {
